@@ -1,0 +1,136 @@
+{
+    "sliderItems": [
+        {
+            "id": "64df31aefd2e4b1cf1c3adea",
+            "name": "Chocolate Mousse",
+            "image": "assets/images/Dessert.png",
+            "price": 6.50,
+            "description": "A smooth and velvety chocolate mousse made from premium cocoa, delicately sweetened and topped with freshly whipped cream for a decadent finish.",
+            "calories": "250",
+            "grams": "120",
+            "proteins": "4",
+            "fats": "15",
+            "carbs": "30",
+            "gradientIndex": 2
+        },
+        {
+            "id": "64df31aefd2e4b1cf1c3adeb",
+            "name": "Fresh Fruit Plate",
+            "image": "assets/images/Pizza.png",
+            "price": 8.00,
+            "description": "A vibrant assortment of hand-picked, seasonal fruits bursting with natural sweetness and vitamins. Perfect as a light dessert or a refreshing snack.",
+            "calories": "200",
+            "grams": "200",
+            "proteins": "3",
+            "fats": "1",
+            "carbs": "45",
+            "gradientIndex": 7
+        },
+        {
+            "id": "64df31aefd2e4b1cf1c3adec",
+            "name": "Grilled Chicken",
+            "image": "assets/images/Dessert.png",
+            "price": 10.99,
+            "description": "Succulent, herb-marinated chicken breast grilled to perfection, delivering a tender bite infused with aromatic spices. Ideal for a high-protein, flavorful meal.",
+            "calories": "320",
+            "grams": "180",
+            "proteins": "30",
+            "fats": "10",
+            "carbs": "5",
+            "gradientIndex": 4
+        },
+        {
+            "id": "64df31aefd2e4b1cf1c3aded",
+            "name": "Margherita Pizza",
+            "image": "assets/images/Pizza.png",
+            "price": 9.50,
+            "description": "A timeless Italian favorite featuring a crisp, thin crust topped with tangy tomato sauce, fresh mozzarella cheese, and fragrant basil leaves.",
+            "calories": "400",
+            "grams": "250",
+            "proteins": "15",
+            "fats": "12",
+            "carbs": "50",
+            "gradientIndex": 1
+        }
+    ],
+    "popularItems": [
+        {
+            "id": "64df31aefd2e4b1cf1c3adea",
+            "name": "Chocolate Mousse",
+            "image": "assets/images/Dessert.png",
+            "price": 6.50,
+            "description": "A smooth and velvety chocolate mousse made from premium cocoa, delicately sweetened and topped with freshly whipped cream for a decadent finish.",
+            "calories": "250",
+            "grams": "120",
+            "proteins": "4",
+            "fats": "15",
+            "carbs": "30",
+            "gradientIndex": 2
+        },
+        {
+            "id": "64df31aefd2e4b1cf1c3adeb",
+            "name": "Fresh Fruit Plate",
+            "image": "assets/images/Fruits-Plate.png",
+            "price": 8.00,
+            "description": "A vibrant assortment of hand-picked, seasonal fruits bursting with natural sweetness and vitamins. Perfect as a light dessert or a refreshing snack.",
+            "calories": "200",
+            "grams": "200",
+            "proteins": "3",
+            "fats": "1",
+            "carbs": "45",
+            "gradientIndex": 7
+        },
+        {
+            "id": "64df31aefd2e4b1cf1c3adec",
+            "name": "Grilled Chicken",
+            "image": "assets/images/Grilled-Chicken.png",
+            "price": 10.99,
+            "description": "Succulent, herb-marinated chicken breast grilled to perfection, delivering a tender bite infused with aromatic spices. Ideal for a high-protein, flavorful meal.",
+            "calories": "320",
+            "grams": "180",
+            "proteins": "30",
+            "fats": "10",
+            "carbs": "5",
+            "gradientIndex": 4
+        },
+        {
+            "id": "64df31aefd2e4b1cf1c3aded",
+            "name": "Margherita Pizza",
+            "image": "assets/images/Pizza.png",
+            "price": 9.50,
+            "description": "A timeless Italian favorite featuring a crisp, thin crust topped with tangy tomato sauce, fresh mozzarella cheese, and fragrant basil leaves.",
+            "calories": "400",
+            "grams": "250",
+            "proteins": "15",
+            "fats": "12",
+            "carbs": "50",
+            "gradientIndex": 1
+        },
+        {
+            "id": "64df31aefd2e4b1cf1c3adee",
+            "name": "Green Salad",
+            "image": "assets/images/Salad2.png",
+            "price": 7.20,
+            "description": "A refreshing blend of crisp lettuce, cucumbers, and seasonal greens, lightly tossed with a zesty vinaigrette for a healthy, guilt-free dish.",
+            "calories": "150",
+            "grams": "100",
+            "proteins": "3",
+            "fats": "5",
+            "carbs": "12",
+            "gradientIndex": 5
+        },
+        {
+            "id": "64df31aefd2e4b1cf1c3adef",
+            "name": "Sweet Bowl",
+            "image": "assets/images/Sweet-Bowl.png",
+            "price": 5.80,
+            "description": "An indulgent assortment of sweet delights including chocolate bites, candied nuts, and dried fruits, crafted to satisfy any sweet tooth.",
+            "calories": "280",
+            "grams": "130",
+            "proteins": "4",
+            "fats": "8",
+            "carbs": "40",
+            "gradientIndex": 9
+        }
+    ]
+}

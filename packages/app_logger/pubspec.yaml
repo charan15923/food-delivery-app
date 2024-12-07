@@ -1,0 +1,13 @@
+name: app_logger
+description: "A new Flutter package project."
+version: 0.0.1
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+dependencies:
+  talker: ^4.4.1
+
+dev_dependencies:
+  lints: ^5.0.0
+  very_good_analysis: ^6.0.0

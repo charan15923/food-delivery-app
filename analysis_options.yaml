@@ -1,0 +1,30 @@
+include: package:very_good_analysis/analysis_options.6.0.0.yaml
+
+analyzer:
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
+    - "**/*.gr.dart"
+    - "**/*.gen.dart"
+  errors:
+    depend_on_referenced_packages: ignore
+    flutter_style_todos: ignore
+    invalid_annotation_target: ignore
+    one_member_abstracts: ignore
+    only_throw_errors: ignore
+    overridden_fields: ignore
+    todo: ignore
+    unnecessary_await_in_return: ignore
+
+linter:
+  rules:
+    prefer_relative_imports: true
+    avoid_classes_with_only_static_members: false
+    always_use_package_imports: false
+    sort_pub_dependencies: false
+    avoid_renaming_method_parameters: false
+    use_super_parameters: true
+    public_member_api_docs: false
+    lines_longer_than_80_chars: false
+    sort_constructors_first: true
+    prefer_single_quotes: true

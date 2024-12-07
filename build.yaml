@@ -1,0 +1,15 @@
+targets:
+  $default:
+    builders:
+      freezed:
+        enabled: true
+        options:
+          build_extensions:
+            "lib/features/{{path}}/data/models/{{file}}.dart": "lib/gen/{{path}}/models/{{file}}.freezed.dart"
+            "lib/features/{{path}}/domain/entity/{{file}}.dart": "lib/gen/{{path}}/entity/{{file}}.freezed.dart"
+      source_gen|combining_builder:
+        enabled: true
+        options:
+          build_extensions:
+            "lib/features/{{path}}/data/models/{{file}}.dart": "lib/gen/{{path}}/models/{{file}}.g.dart"
+            "lib/app/data/models/{{file}}.dart": "lib/gen/app/models/{{file}}.g.dart"

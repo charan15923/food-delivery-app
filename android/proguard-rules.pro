@@ -1,0 +1,1 @@
+#The following rule needs to be added in the proguard-rules.pro to avoid obfuscated keys.
